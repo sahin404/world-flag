@@ -1,0 +1,20 @@
+.Country{
+    border: 2px solid blue;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.btn{
+    padding: 10px;
+    font-size: 22px;
+    color: blue;
+    background-color: #fff;
+    border-radius: 10px;
+    border: none;
+    margin: 10px;
+}
+
+.visited{
+    border: 5px solid skyblue;
+}
